@@ -21,7 +21,7 @@ MySQL, MongoDB
 
 ## 💼 Projects
 
-### 📚 BookRec API (WIP)
+### 📚 BookRec API *(WIP)*
 A content-based book recommendation engine that suggests similar books based on one or more input titles using TF-IDF vectorization and cosine similarity.
 - Tech: Python · FastAPI · scikit-learn · Docker · AWS EC2 · GitHub Actions
 - Focus: Machine Learning · Backend API · Cloud Deployment · CI/CD

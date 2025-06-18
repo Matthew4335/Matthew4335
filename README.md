@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Matthew Brown
 
-<!--
-**Matthew4335/Matthew4335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate from Georgia Tech  
+💡 Passionate about backend systems, AI/ML, and building practical, data-driven solutions  
+🚀 Seeking opportunities in software engineering, backend development, or applied ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages:**  
+Python, Java, C, SQL
+
+**Frameworks & Tools:**  
+Spring Boot, Node.js, TensorFlow, scikit-learn, Docker, AWS  
+
+**Databases:**  
+MySQL, MongoDB  
+
+---
+
+## 💼 Projects
+
+### 🏀 NBA Award Predictor  
+Predicts NBA All-Rookie teams using player statistics and advanced ML models.  
+- Techniques: PCA, GMM, Logistic Regression, Neural Networks  
+- Achieved 97% accuracy and F1-score of 0.9  
+Repo: https://github.com/Matthew4335/NBAPredictorMLProject | GitHubPages : https://matthew4335.github.io/NBAPredictorMLProject/
+
+### 🏥 Epic Patient Dashboard *(Team Project)*  
+Built a web dashboard to visualize patient data from Epic EMR using HAPI on FHIR API  
+- My role: Backend development with Spring Boot and API integration, managed client relations  
+- Collaborated with a 6-member team and delivered to Emory University  
+
+---
+
+## 🌱 Currently Learning
+
+- AWS & Cloud Backend Architecture   
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 [Email](matthew.brown4335@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/matthewbrown4335)  
+

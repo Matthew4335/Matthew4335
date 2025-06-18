@@ -25,13 +25,13 @@ MySQL, MongoDB
 Predicts NBA All-Rookie teams using player statistics and advanced ML models.  
 - Techniques: PCA, GMM, Logistic Regression, Neural Networks  
 - Achieved 97% accuracy and F1-score of 0.9  
-[GitHub Repo](https://github.com/Matthew4335/NBAPredictorMLProject) | [Live Demo (GitHub Pages)](https://matthew4335.github.io/NBAPredictorMLProject/)
+[GitHub Repo](https://github.com/Matthew4335/NBAPredictorMLProject) | [GitHub Pages](https://matthew4335.github.io/NBAPredictorMLProject/)
 
 ### 🏥 Epic Patient Dashboard *(Team Project)*  
 Built a web dashboard to visualize patient data from Epic EMR using HAPI on FHIR API  
 - My role: Backend development with Spring Boot and API integration, managed client relations  
 - Collaborated with a 6-member team and delivered to Emory University
-- [GitHub Repo] (https://github.com/Matthew4335/EpicPatientDashboard)  
+- [GitHub Repo](https://github.com/Matthew4335/EpicPatientDashboard)  
 
 ---
 

@@ -4,6 +4,9 @@
 💡 Passionate about backend systems, AI/ML, and building practical, data-driven solutions  
 🚀 Seeking opportunities in software engineering, backend development, or applied ML
 
+- 📧 [Email](mailto:matthew.brown4335@gmail.com) 
+- 💼 [LinkedIn](https://linkedin.com/in/matthewbrown4335)  
+
 ---
 
 ## 🧰 Tech Stack
@@ -56,10 +59,5 @@ A cellular automata-based traffic simulation that models highway and freeway tra
 
 - AWS & Cloud Backend Architecture   
 
----
 
-## 📫 How to Reach Me
-
-- 📧 [Email](mailto:matthew.brown4335@gmail.com) 
-- 💼 [LinkedIn](https://linkedin.com/in/matthewbrown4335)  
 

@@ -47,8 +47,8 @@ Built a web application to visualize patient data from Epic EMR using HAPI on FH
 A cellular automata-based traffic simulation that models highway and freeway traffic using grid-based dynamics and stochastic driver behavior.
 - Features: Single- & multi-lane simulation, lane-changing logic, traffic jam formation, and velocity heatmaps  
 - Tech: Python · NumPy · matplotlib  
-- Focus: Simulation · Systems Modeling· Data Science 
-[GitHub Repo](https://github.com/Matthew4335/CA-Traffic-Model)
+- Focus: Simulation · Systems Modeling · Data Science 
+- [GitHub Repo](https://github.com/Matthew4335/CA-Traffic-Model)
 
 ---
 

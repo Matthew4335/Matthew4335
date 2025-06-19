@@ -9,10 +9,10 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python, Java, C, SQL,C#
+Python, Java, C, SQL, C#
 
 **Frameworks & Tools:**  
-Spring Boot, Node.js, TensorFlow, scikit-learn, Docker, AWS  
+Spring Boot, Node.js, TensorFlow, scikit-learn, Pandas, Docker, AWS  
 
 **Databases:**  
 MySQL, MongoDB  
@@ -41,7 +41,14 @@ Built a web application to visualize patient data from Epic EMR using HAPI on FH
 - Tech: JavaScript · Next.js · Tailwind CSS · Java · Spring Boot
 - Focus: Full-Stack Development · Healthcare Tech · API Integration · Backend Systems  
 - Collaborated with a 6-member team and delivered to Emory University
-- [GitHub Repo](https://github.com/Matthew4335/EpicPatientDashboard)  
+- [GitHub Repo](https://github.com/Matthew4335/EpicPatientDashboard)
+
+### 🚗 Cellular Automata Traffic Model 
+A cellular automata-based traffic simulation that models highway and freeway traffic using grid-based dynamics and stochastic driver behavior.
+- Features: Single- & multi-lane simulation, lane-changing logic, traffic jam formation, and velocity heatmaps  
+- Tech: Python · NumPy · matplotlib  
+- Focus: Simulation · Systems Modeling· Data Science 
+[GitHub Repo](https://github.com/Matthew4335/CA-Traffic-Model)
 
 ---
 

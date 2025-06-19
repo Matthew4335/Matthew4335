@@ -4,8 +4,8 @@
 💡 Passionate about backend systems, AI/ML, and building practical, data-driven solutions  
 🚀 Seeking opportunities in software engineering, backend development, or applied ML
 
-- 📧 [Email](mailto:matthew.brown4335@gmail.com) 
-- 💼 [LinkedIn](https://linkedin.com/in/matthewbrown4335)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matthew4335)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew.brown4335@gmail.com)
 
 ---
 

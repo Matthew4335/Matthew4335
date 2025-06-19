@@ -9,7 +9,7 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python, Java, C, SQL
+Python, Java, C, SQL,C#
 
 **Frameworks & Tools:**  
 Spring Boot, Node.js, TensorFlow, scikit-learn, Docker, AWS  

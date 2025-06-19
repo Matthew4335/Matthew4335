@@ -36,7 +36,7 @@ Predicts NBA All-Rookie teams using player statistics and advanced ML models.
 - [GitHub Repo](https://github.com/Matthew4335/NBAPredictorMLProject) | [GitHub Pages](https://matthew4335.github.io/NBAPredictorMLProject/)
 
 ### 🏥 Epic Patient Dashboard *(Team Project)*  
-Built a web dashboard to visualize patient data from Epic EMR using HAPI on FHIR API  
+Built a web application to visualize patient data from Epic EMR using HAPI on FHIR API  
 - My role: Backend development with Spring Boot and API integration, managed client relations
 - Tech: JavaScript · Next.js · Tailwind CSS · Java · Spring Boot
 - Focus: Full-Stack Development · Healthcare Tech · API Integration · Backend Systems  

@@ -16,7 +16,7 @@ Java, Python, C, C#, MATLAB, SQL,
 **Frameworks & Tools:**  
 Spring Boot, Node.js, Docker, AWS, git  
 
-**Libraries:**
+**Libraries:**  
 pandas, NumPy, TensorFlow, scikit-learn
 
 **Databases:**  

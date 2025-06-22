@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-Java, Python, C, C#, MATLAB, SQL, 
+Java, Python, C, C#, MATLAB, SQL
 
 **Frameworks & Tools:**  
 Spring Boot, Node.js, Docker, AWS, git  

@@ -11,10 +11,13 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python, Java, C, SQL, C#
+Java, Python, C, C#, MATLAB, SQL, 
 
 **Frameworks & Tools:**  
-Spring Boot, Node.js, TensorFlow, scikit-learn, Pandas, Docker, AWS  
+Spring Boot, Node.js, Docker, AWS, git  
+
+**Libraries**
+pandas, NumPy, TensorFlow, scikit-learn
 
 **Databases:**  
 MySQL, MongoDB  
@@ -23,7 +26,7 @@ MySQL, MongoDB
 
 ## 💼 Projects
 
-### 📚 BookRec API *(WIP)*
+### 📚 BookRec API
 A content-based book recommendation engine that suggests similar books based on one or more input titles using sentence-transformer embeddings and cosine similarity.
 - Tech: Python · FastAPI · scikit-learn · Docker · AWS EC2 · GitHub Actions
 - Focus: Machine Learning · Backend API · Cloud Deployment · CI/CD

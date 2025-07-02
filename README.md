@@ -58,7 +58,6 @@ A cellular automata-based traffic simulation that models highway and freeway tra
 
 ## 🌱 Currently Learning
 - AWS Cloud Architecture (IAM, EC2, RDS, S3)
-- CI/CD Pipelines with GitHub Actions
 - Advanced Spring Boot (JWT Auth, Testing, REST Best Practices)  
 
 

@@ -16,15 +16,23 @@ Java, Python, C, C#, MATLAB, SQL
 **Frameworks & Tools:**  
 Spring Boot, Node.js, Docker, AWS, git  
 
-**Libraries:**  
+**Data Engineering and Libraries:**  
 pandas, NumPy, TensorFlow, scikit-learn
 
 **Databases:**  
-MySQL, MongoDB  
+MySQL, MongoDB, PostgreSQL  
 
 ---
 
 ## Projects
+
+### Aerospace Telemetry Data Engineering Platform
+An end-to-end data engineering platform that generates, processes, and analyzes simulated rocket flight telemetry, with data validation and anomaly detection.
+- Features: Synthetic telemetry generation · ETL Pipelines · Data Quality Validation · SQL Analytics · REST API
+- Tech: Python · PostgreSQL · pandas · SQLAlchemy · FastAPI · Docker · AWS S3 · scikit-learn · GitHub Actions
+- Focus: Data Engineering · Backend Development · Database Design · Cloud Infrastructure · Machine Learning
+- Status: In Development
+- [GitHub Repo](https://github.com/Matthew4335/aerospace-telemetry-platform)
 
 ### BookRec API
 A content-based book recommendation engine that suggests similar books based on one or more input titles using sentence-transformer embeddings and cosine similarity.
